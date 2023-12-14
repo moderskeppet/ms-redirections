@@ -2,11 +2,10 @@ displayName: Demo Plugin
 type: middleware
 iconPath: .assets/icon.png
 
-import: github.com/traefik/plugindemo
+import: github.com/moderskeppet/ms-redirections
 
 summary: '[Demo] Add Request Header'
 
 testData:
-  Headers:
-    X-Demo: test
-    X-URL: '{{URL}}'
+    Headers:
+        X-Demo: test

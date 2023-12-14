@@ -1,3 +1,3 @@
-module github.com/traefik/plugindemo
+module github.com/moderskeppet/ms-redirections
 
 go 1.19
